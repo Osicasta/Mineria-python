@@ -1,0 +1,7 @@
+Departamento,Municipio,Año,IRCA,IRCAurbano,Nivel de riesgo urbano,IRCArural,Nivel de riesgo rural
+Sucre,Galeras,2017,53.0,48.5,Riesgo alto,38.53,Riesgo alto
+Sucre,Galeras,2018,12.0,12.0,Riesgo bajo,38.53,Riesgo alto
+Tolima,Rioblanco,2013,11.6,15.64,Riesgo medio,38.53,Riesgo alto
+Antioquia,MedellIn,2010,1.4,0.5,Sin riesgo,2.6,Sin riesgo
+Antioquia,Amalfi,2009,0.7,0.7,Sin riesgo,38.53,Riesgo alto
+BolIvar,Santa Rosa,2011,27.6,28.5,Riesgo medio,18.8,Riesgo medio
